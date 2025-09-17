@@ -12,6 +12,7 @@ def pregunta_02():
     Rta/
     Hello cruel world!
 
+    
     """
 
     return "Hello cruel world!"
